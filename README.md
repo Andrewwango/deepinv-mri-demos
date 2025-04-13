@@ -1,6 +1,10 @@
 # deepinv-mri-demos
 Demos for accelerated MRI reconstruction with deep learning using DeepInverse.
 
+<a target="_blank" href="https://colab.research.google.com/github/Andrewwango/deepinv-mri-demos/blob/main/demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 By [Andrew Wang](https://andrewwango.github.io)
 
 We demonstrate three types of methods:
@@ -9,14 +13,14 @@ We demonstrate three types of methods:
 2. Self-supervised unrolled learning using Equivariant Imaging [\[2, 3\]](#references)
 3. Posterior sampling from a diffusion model using DPS [\[4\]](#references)
 
-Find the demo in the [demo notebook](demo.ipynb) and [webpage](https://andrewwango.github.io/deepinv-mri-demos).
+Find the [demo notebook here](demo.ipynb), [webpage here](https://andrewwango.github.io/deepinv-mri-demos), or [open in Colab](https://githubtocolab.com/Andrewwango/deepinv-mri-demos/blob/main/demo.ipynb).
 
 ## Get started
 
 - Create a Python environment: `python -m venv venv`
 - Download `deepinv`: `pip install deepinv`
 - Start a notebook server (Jupyter, VSCode, Colab...)
-- Download the FastMRI subset file [here](https://huggingface.co/datasets/deepinv/images/blob/f629d3e2d4a5d63f5e081835bd1d6338fee8077f/fastmri_knee_singlecoil.pt).
+- Optional: for training, download the FastMRI subset file [here](https://huggingface.co/datasets/deepinv/images/blob/f629d3e2d4a5d63f5e081835bd1d6338fee8077f/fastmri_knee_singlecoil.pt).
 
 ## References
 

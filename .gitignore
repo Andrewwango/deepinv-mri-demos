@@ -1,6 +1,4 @@
-dinv_dataset0.h5
-physics0.pt
-fastmri_*.pt
+data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
