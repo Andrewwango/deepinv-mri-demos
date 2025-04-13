@@ -9,7 +9,7 @@ We demonstrate three types of methods:
 2. Self-supervised unrolled learning using Equivariant Imaging [\[2, 3\]](#references)
 3. Posterior sampling from a diffusion model using DPS [\[4\]](#references)
 
-Find the demo in the [demo notebook](demo.ipynb) and [webpage](https://andrewwango.github.io/deepinv-mri-demos/).
+Find the demo in the [demo notebook](demo.ipynb) and [webpage](https://andrewwango.github.io/deepinv-mri-demos).
 
 ## Get started
 
